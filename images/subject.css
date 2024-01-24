@@ -1,0 +1,35 @@
+body {
+    background-image: url(/Users/jaydenparkseojeong/Downloads/UscytTZEtSPubGK1TgZt--1--7zmtz.jpg);
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
